@@ -14,3 +14,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white" />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Hyundai AVANTE-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white" />
+	<img src="https://img.shields.io/badge/Samsung Laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" />
+</div>
+

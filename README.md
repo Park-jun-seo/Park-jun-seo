@@ -6,8 +6,6 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
   	<img src="https://img.shields.io/badge/Ubuntu_20.04LTS-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
   	<img src="https://img.shields.io/badge/ROS_noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-	<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" />
-	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 <div align="left">
   	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
